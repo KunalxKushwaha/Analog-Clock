@@ -13,3 +13,4 @@ setInterval(function() {
     stalkMinute.style.transform = "rotate(" + minute + "deg)"
     stalkHour.style.transform = "rotate(" + hour + "deg)"
 })
+//Finished..
